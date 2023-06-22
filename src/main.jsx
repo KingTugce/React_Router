@@ -11,7 +11,6 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import "./index.css";
-import Root from "./routes/root";
 import ErrorPage from "./error_page";
 import Contact from "./routes/contact";
 import Root,{ loader as rootLoader} from "./routes/root";
